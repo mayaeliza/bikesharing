@@ -1,4 +1,4 @@
-# bikesharing
+# Tableau Bikesharing 
 
 ## Overview of the statistical analysis:
 Use Tableau and NYC CitiBike Data to create an illustrative Citi Bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
